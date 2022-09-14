@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  fastapi-postgres:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-09-14T11:51:29.068907198Z"
+    description: A Helm chart for Kubernetes
+    digest: f94906fd8fe6c794861fd76aa32d9773332f4444cde0c1ee1ecf5d503de4fa45
+    name: fastapi-postgres
+    type: application
+    urls:
+    - fastapi-postgres-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-09-14T11:51:29.067805563Z"
